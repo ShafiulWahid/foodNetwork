@@ -1,6 +1,5 @@
 body{
-    font-family: 'Oswald', sans-serif;
-    
+    font-family: 'Raleway', sans-serif;    
 }
 h1{
     font-size: 60px;
@@ -10,13 +9,13 @@ p{
 font-size: 35px;
 }
 .foodline{
-   color: yellow; 
+   color: hsla(60, 100%, 50%, 0.938); 
 }
 .twoline{
     color: yellowgreen;
 }
 .p1{
-    color: yellow;
+    color: #ffff00;
 }
 .p11{
     color: red;
@@ -58,7 +57,7 @@ section{
     font-size: 70px;
 }
 .line{
-    padding-left: 60%;
+    padding-left: 68%;
     font-size: 20px;
 }
 .flex{
@@ -67,18 +66,25 @@ section{
 .A{
     padding-left: 5%;
     padding-right: 5%;
-    box-shadow: 10px 10px 30px yellowgreen;
+    box-shadow: 10px 10px 30px rgb(205, 202, 50);
     margin-left: 5%;
     margin-right: 5%;
-    border: 10px solid yellowgreen;
-border-radius: 20px;
+    border: 10px solid rgb(195, 205, 50);
+    border-radius: 20px;
+    font-size: small;
 
     
 }
 .A img{
-    width: 60%;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 15%;
+}
+.s{
     padding-left: 15%;
     padding-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .foot{
     background-color: black;
